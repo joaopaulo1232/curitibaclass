@@ -1,0 +1,125 @@
+﻿body {
+	background-color: #000;
+}
+.fichamodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #FFF;
+	font-weight: bold;
+}
+.avisoligar {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+}
+.avisopagina {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+}
+.dadosmodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #e1e401;
+    font-weight: bold;
+}
+.nomemodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+	color: #000000;
+    font-weight: bold;
+}
+.tags {
+	color: #000;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+    text-align: center;
+}
+.tagrodape {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+.tagrodapedestaque {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #e1e401;
+	font-weight: bold;
+	text-align: center;
+}
+.exclusiva {
+	color: #e1e401;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+}
+.texto {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+}
+.contador {
+	color: #e1e401;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+}
+.textobranco {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+}
+.textobranco1 {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+}
+.textoamarelo {
+	color: #e1e401;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #e1e401;
+	font-weight: bold;
+}
+a:visited {
+	color: #e1e401;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+a:active {
+	color: #e1e401;
+	text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+}
+.site {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #e1e401;
+	font-weight: bold;
+}
